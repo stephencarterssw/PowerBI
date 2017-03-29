@@ -1,3 +1,6 @@
+# Power BI pbix files
+*.pbix
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
